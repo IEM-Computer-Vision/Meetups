@@ -1,5 +1,5 @@
 ## Minutes of the meeting
-- Find the entire video here.
+- Find the entire video [here](https://youtu.be/UJ1e88sYMBQ)
 
 - Second edition of Explain A month
 - Internship Opportunities shared
