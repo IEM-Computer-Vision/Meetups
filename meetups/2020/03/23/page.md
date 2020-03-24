@@ -1,4 +1,5 @@
 ## Minutes of the meeting
+- Find the entire video here.
 
 - Second edition of Explain A month
 - Internship Opportunities shared
@@ -6,7 +7,7 @@
 
 ## Slides
 
-- Soumyadip Sarkar - [Triangulation]()
+- Soumyadip Sarkar - [Triangulation](https://github.com/IEM-Computer-Vision/Meetups/blob/master/local/data/Triangulation_ppt.pptx?raw=true)
 - Purbayan Chowdhury - [Epipolar Geometry](https://docs.google.com/presentation/d/1u0boGOqtxqJhwA8-IwB9J6Ii-1O4Wr4spN9MsFt3a2k/edit?usp=sharing)
-- Shivam Aranya - [Dense Motion]()
+- Shivam Aranya - [Dense Motion](https://github.com/IEM-Computer-Vision/Meetups/blob/master/local/data/Dense_Motion0.pdf)[Dense Motion Part 2](https://github.com/IEM-Computer-Vision/Meetups/blob/master/local/data/Dense_Motion1.pdf)
 - Shatadru Majumdar - [SURF]()
