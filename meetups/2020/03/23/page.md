@@ -12,3 +12,4 @@
 - Shivam Aranya - [Dense Motion](https://github.com/IEM-Computer-Vision/Meetups/blob/master/local/data/Dense_Motion0.pdf)
 [Dense Motion Part 2](https://github.com/IEM-Computer-Vision/Meetups/blob/master/local/data/Dense_Motion1.pdf)
 - Shatadru Majumdar - [SURF]()
+- Rajatava Mukherjee - [Variational Autoencoder](https://github.com/IEM-Computer-Vision/Meetups/blob/master/local/data/V.A.E.pdf)
